@@ -1,4 +1,5 @@
 COMPILER = g++
+GFLAGS = -std=c++20
 SOURCES = main.cpp my_vector.h my_vector_exception.h
 EXEC_FILENAME = prog.exe
 
